@@ -27,7 +27,7 @@
   <img src="https://www.flaticon.com/free-icons/javascript" title="Bash" alt="Bash" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" title="HTML5" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net" title="JS" alt="JS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.svg" title="JS" alt="JS" width="40" height="40"/>
 </p>
 
 ---
