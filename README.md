@@ -1,14 +1,16 @@
- <h2><img src="https://em-content.zobj.net/source/microsoft-teams/363/lady-beetle_1f41e.png" height="23" alt="QA">Привет, меня зовут Сергей! </h2>
+ <h2> 💻 Привет, меня зовут Сергей и я Junior QA Engineer </h2>
+
+
+В данном репозитории я собрал артефакты, созданные мной в ходе тестирования веб и мобильных приложений. Здесь вы найдете примеры тестовой документации, баг-репорты и результаты проверок, которые демонстрируют мой подход к обеспечению качества продукта. 
+<p align="center">
+  Моё<a href="https://drive.google.com/file/d/1n8lwhmE1hyeTqXwOvQrkwVSc7XLuWdzD/view?usp=drive_link"><b> РЕЗЮМЕ</b> 📄</a>
+</p>
+
+
+
 
 ---
-
-
-
-Я — Junior QA Engineer. В данном репозитории собраны артефакты, созданные мной в ходе тестирования веб-приложений в рамках учебных и личных проектов. Здесь вы найдете примеры тестовой документации, баг-репорты и результаты проверок, которые демонстрируют мой подход к обеспечению качества продукта <a href="https://drive.google.com/file/d/1tGSXIdDrbTkp4umSK-T8Z9YOxhm06lRn/view?usp=sharing">резюме</a>.</p>
-
-
----
-<h2>Некоторые инструменты, которые я использую</h2>
+<h2>Hard skills</h2>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png" title="YouTrack" alt="YouTrack" width="40" height="40"/>
@@ -22,7 +24,8 @@
   <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="Fiddler" alt="Fiddler" width="40" height="40"/>
   <img src="https://ph-files.imgix.net/f1aba60e-b071-4afd-bde6-7c123853a3ae.png?auto=format" title="Proxyman" alt="Proxyman" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
+  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/> 
+  Пока не изучил этот инструмент-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>
@@ -31,18 +34,24 @@
 </p>
 
 ---
-<!--<h2>Тестовые артефакты</h2>
+<h2>Тестовые артефакты</h2>
 <ul>
-  <li><a href="https://github.com/osukhorukova/web_testing">Webshop Testing</a> – exploratory and functional testing</li>
-  <li><a href="https://github.com/osukhorukova/api_testing">API Testing</a> – REST and SOAP via Postman</li>
-  <li><a href="https://github.com/osukhorukova/sql">MySQL</a> – queries and DB validation scripts</li>
-  <li><a href="https://github.com/osukhorukova/mongodb">MongoDB</a> – NoSQL queries and exercises</li>
-  <li><a href="https://github.com/osukhorukova/mobile_testing">Android App Testing</a> – manual test cases and bug reports</li>
-  <li><a href="https://github.com/osukhorukova/charlesproxy">Charles Proxy</a> – mock responses and network inspection</li>
-  <li><a href="https://github.com/osukhorukova/bash">Bash</a> – scripts for QA tasks</li>
-  <li><a href="https://github.com/osukhorukova/git">Git</a> – basic version control commands</li>
+  <li><a href="https://github.com/sergi010101/Web_Testing">Webshop Testing</a> – функциональное и исследовательское тестирование интернет-магазина</li>
+  <li><a href="https://github.com/sergi010101/Api_Testing">API Testing</a> – проверка клиент-серверного взаимодействия (REST, SOAP) в Postman</li>
+  <li><a href="https://github.com/sergi010101/MySQL">MySQL</a> – тестирование реляционной БД (написание SELECT-запросов, Join, агрегатные функции)</li>
+  <li><a href="https://github.com/sergi010101/MySQL_Practice">MySQL Practice</a> – репозиторий с расширенной практикой написания SQL-запросов</li>
+  <li><a href="https://github.com/sergi010101/Android_App_Testing">Android App Testing</a> – тестирование функциональности, UI/UX и стабильности мобильного приложения для управления задачами</li>
+  <li><a href="https://github.com/sergi010101/Charles_Proxy">Charles Proxy</a> – примеры перехвата и модификации сетевого трафика</li>
+  
 </ul> 
--->
+
+---
+### <h2>📖 Пройденные курсы:</h2>
+
+| Курсы                                                           | Дата              |
+| ----------------------------------------------------------------| :---------------: |
+| Тестирование ПО с нуля. Продвинутый уровень                     | 02/2025 - 02/2026 |
+
 ---
 <h3 align="center">📫 Для связи со мной!</h3>
 <p align="center">
@@ -53,12 +62,4 @@
 
 ---
 
-<!-- ### 💻 Пройденные курсы:
-
-| Курсы                                                           | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
-
---- -->
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sergi010101)
