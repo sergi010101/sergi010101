@@ -3,14 +3,14 @@
 
 В данном репозитории я собрал артефакты, созданные мной в ходе тестирования веб и мобильных приложений. Здесь вы найдете примеры тестовой документации, баг-репорты и результаты проверок, которые демонстрируют мой подход к обеспечению качества продукта. 
 <p align="center">
-  Моё<a href="https://drive.google.com/file/d/1n8lwhmE1hyeTqXwOvQrkwVSc7XLuWdzD/view?usp=drive_link"><b> РЕЗЮМЕ</b> 📄</a>
+  📄 Моё<a href="https://drive.google.com/file/d/1n8lwhmE1hyeTqXwOvQrkwVSc7XLuWdzD/view?usp=drive_link"><b> РЕЗЮМЕ</b> </a> 
 </p>
 
 
 
 
 ---
-<h2>Hard skills</h2>
+<h2>🛠 Hard skills</h2>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png" title="YouTrack" alt="YouTrack" width="40" height="40"/>
@@ -34,7 +34,7 @@
 </p>
 
 ---
-<h2>Тестовые артефакты</h2>
+<h2>📂 Тестовые артефакты</h2>
 <ul>
   <li><a href="https://github.com/sergi010101/Web_Testing">Webshop Testing</a> – функциональное и исследовательское тестирование интернет-магазина</li>
   <li><a href="https://github.com/sergi010101/Api_Testing">API Testing</a> – проверка клиент-серверного взаимодействия (REST, SOAP) в Postman</li>
@@ -48,9 +48,9 @@
 ---
 ### <h2>📖 Пройденные курсы:</h2>
 
-| Курсы                                                           | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-| Тестирование ПО с нуля. Продвинутый уровень                     | 02/2025 - 02/2026 |
+| Курсы                                                           | Дата              | Сертификат
+| ----------------------------------------------------------------| :---------------: | :------------------
+| Тестирование ПО с нуля. Продвинутый уровень                     | 12/2025 - 02/2026 | <a href="https://drive.google.com/file/d/1i62vAQirA614sl6ELH2BJW9ca_TftqYi/view?usp=drive_link">Stepik-сертификат</a>
 
 ---
 <h3 align="center">📫 Для связи со мной!</h3>
