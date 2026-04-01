@@ -50,7 +50,7 @@
 
 | Курсы                                                           | Дата              | Сертификат
 | ----------------------------------------------------------------| :---------------: | :------------------
-| Тестирование ПО с нуля. Продвинутый уровень                     | 12/2025 - 03/2026 | <a href="https://drive.google.com/file/d/1ePDqgtGn5flkNr0zd9NaKDEoLsaK9Yz6/view?usp=sharing">Stepik-сертификат</a> с отличием
+| Тестирование ПО с нуля. Продвинутый уровень                     | 12/2025 - 02/2026 | <a href="https://drive.google.com/file/d/1jwAm7b49IBmGg6pZgZjUVupZHLe8MzDU/view?usp=drive_link">Stepik-сертификат</a> с отличием
 
 ---
 <h3 align="center">📫 Для связи со мной!</h3>
